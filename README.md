@@ -50,9 +50,9 @@ To deploy this project run
 
 ## Screenshots
 
-![App Screenshot](https://github.com/fatemehsajjadi/NFTMarketReactJS/raw/main/FireShot%20Capture%20001%20-%20NFT%20MarketPlace%20-%20localhost-min.png)
+![App Screenshot](FireShot%20Capture%20001%20-%20NFT%20MarketPlace%20-%20localhost-min.png)
 
-![App Screenshot](https://github.com/fatemehsajjadi/NFTMarketReactJS/raw/main/gtmetrix_nftmarket-min.png)
+![App Screenshot](gtmetrix_nftmarket-min.png)
 
 
 ## License
